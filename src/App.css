@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(212, 92, 212);
+}
+.skills h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    margin-bottom: 70px;
+
+}
+.empty{
+    margin: 250px;
+    font-size: 24px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    font-weight: bold;   
+}
+
+.content{
+    cursor: pointer;
+    background-color: white;
+    width: 350px;
+    height: 380px;
+    border: 1px solid;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.content-item {
+ 
+    padding: 2px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
